@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="season_array">
+        <item>春天</item>
+        <item>夏天</item>
+        <item>秋天</item>
+        <item>冬天</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>白天</item>
+        <item>晚上</item>
+    </string-array>
+
+</resources>
