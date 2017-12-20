@@ -1,5 +1,8 @@
 # photopia
 
+git install url(windows) : https://git-scm.com/download/win
+git install(MacOS) : https://git-scm.com/download/mac
+
 git clone url --> 連結到雲端
 
 git add . --> 加入檔案到預備
