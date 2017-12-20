@@ -1,6 +1,6 @@
 # photopia
 
-git clone --> 連結到雲端
+git clone url --> 連結到雲端
 
 git add . --> 加入檔案到預備
 
