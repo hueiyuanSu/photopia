@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">MyPhotopia</string>
-    <string name="依目前位置定位">  依目前位置定位</string>
-    <string name="景點">景點</string>
-    <string name="方圓">方圓(公尺)</string>
-    <string name="季節">季節</string>
-    <string name="時間">時間</string>
-    <string name="Photopia">Photopia</string>
-</resources>
